@@ -1,0 +1,20 @@
+🚨 New Project Spotlight: Movie Rating Prediction with Python! 🎬✨
+Excited to share my latest project, where I designed a machine learning model to predict movie ratings based on features like genre, director, and cast! This project explores how user and critic ratings can be accurately estimated using advanced data analysis and regression techniques. 🌟
+🔍 Project Highlights:
+1️⃣ Data Preparation:
+Processed an IMDb dataset containing 15,509 movie entries, including features like year, duration, genre, director, actors, and user votes.
+Handled missing values, converted categorical features into numerical representations, and scaled the data for optimal performance.
+2️⃣ Exploratory Data Analysis (EDA):
+Visualized relationships between features and ratings using scatter plots and correlation heatmaps.
+Analyzed trends, such as how specific genres or directors influence ratings.
+3️⃣ Model Development:
+Trained a regression model using Random Forest Regressor for predicting movie ratings with high accuracy.
+Engineered new features like one-hot encoding for genres and actors to enhance the model's performance.
+4️⃣ Performance Evaluation:
+Achieved a Mean Squared Error (MSE) of 1.17, indicating a strong prediction capability.
+Conducted test predictions, including estimating the rating of a new movie with features like genre = "Adventure, Fantasy" and director = "Denis Villeneuve," resulting in a predicted rating of 6.41.
+💡 Key Takeaways:
+This project was a fantastic opportunity to explore regression techniques and learn how to build predictive models for entertainment-related data. The insights gained can help production houses and streaming platforms make data-driven decisions about future projects!
+🛠 Tech Stack: Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
+Let’s continue building innovative solutions and exploring the fascinating world of data science! 🌐🎥
+hashtag#internship hashtag#CODSOFT
